@@ -1,0 +1,73 @@
+User: 	Go to family and other people in setting 
+	Compare the list given in setting and the list of user given in the read.file
+	
+account Types: 	check to see had administrative prvledges 
+		To change by searching for the user button and change the account type and the standard user
+
+Delete MP3, MOV, MP4, Wav: 	search up .mp3 in files
+				It will be loaction in disk(inside the users)
+				Try to erase them or find a way to
+				Then open up C drive then user.mp3 
+
+Updates:Type in updates in task bar
+	It will be really good if you update them all as where it is required
+	
+Password Policy(Secpol):Change the complexity of the passwords
+			You are needed to make sure all the password is change
+			The Same complex will be password. (3/8/10 passwords remembered)
+			Maximum password == 90 days for regual user< admin account == 30 days
+			The minmum password age = 1 days and Mimmum oass length == 10 forward
+
+Security Options(Secpol):DC-Rom acess to locally. 
+			enable it restrict floppy access to local.
+			enable it do not require control alt delete 
+			disable (disable remote desktop) check devices
+			interactive logon
+
+Security Policy (secpol): Click arrow for account policies/ passwordpolicies 
+			(Click on the secuity setting to change it.)
+Account Lockout Policy: Account lockout duration ==30 minutes)
+			(Account lockout threshold == 5 invalid login attempts) 
+			(Reset account lockout Counter after = 30 minutes) 
+
+			Purpose is fo brute force accounts. Like when someone goes into your account
+ Audit Policy (secpol):  Security Policty<Local Policies<Audit Policy
+			Turn everything on
+			(success and failure)
+
+Firewall: type in windows firewall into search bar and make sure its on 
+	Turn on pop up blocker
+	Open the browser and go to security options and turn off pop up blocker
+	Browser for firefox & internet explorer Lastest Stable Version of firefox, internet explorer, etc.
+	& Set it up as your default. 
+	(Open a firefox brower, go into settongs, options (set as default password), 
+	make sure to enable tracking protection in privacy (Click all of the option that can be seem)
+
+Defalut browser: Search default in the search bar to set firefox to the default web browser.
+	 Defaultapp settings and check for firefox and internet explorer
+ 
+Windows defender: Check to see if its on & do a quick scan 
+	Settings\Update & Security Windows Security \ Virus and Threat Protection
+
+manage accounts: go to manage accounts; 
+	go in all of them and create a COMPLEX password. 
+	DO NOT MESS WITH THE ADMINISTRATIVE PASSWORD OF THE ONE YOU AUTOMATICALLY LOG IN AS ("your password that you have putin") 
+	put "none" under hint
+	
+check the owner of a file: right click, properties and see the owner 
+
+Services Type: Type in services
+
+Programs and Features FTP server (worldwide web feature): file t Programs & Features. Tum windows features on/ off 
+							under internet information services (turn off) sharing support 
+							(turn off unless they want us to -check the readme-) & restart Apps and features- 
+							turn windows features on and off to take off all the games 
+							(Solitare & other built and games)
+
+Windows Features: turn off windows media player.
+
+FTP server: turn it all off 
+	(under internet information services)
+
+TCP port sharing: turn it off 
+	(depends on the round)
